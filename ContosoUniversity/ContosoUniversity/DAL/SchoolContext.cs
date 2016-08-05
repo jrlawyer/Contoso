@@ -22,5 +22,6 @@ namespace ContosoUniversity.DAL
         {
             modelBuilder.Conventions.Remove<PluralizingTableNameConvention>();
         }
+
     }
 }
